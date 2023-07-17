@@ -18,7 +18,7 @@ In our case, the anchor is the code to document, with a suitable summary represe
 
 From the graphical point of view:
 
-[Constrastive Representation Learning](triplet-example.pdf)
+![image info](triplet-example.png)
 
 
 
