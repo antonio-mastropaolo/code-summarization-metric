@@ -29,11 +29,11 @@ In our case, the anchor is the code to document, with a suitable summary represe
 
 * ##### Datasets :paperclip:
 
-    The dataset used for training and evaluation are available <a href="https://drive.google.com/drive/folders/1it5-myF8KO8079BfO8IxZ_1IwDLD5EBg?usp=share_link">here</a>
+    The dataset used for training and evaluation are available <a href="https://drive.google.com/drive/folders/1jbXHcPoy-S4BeMhDL57MDHcNzBuXHOB8?usp=sharing">here</a>
     
     
 * ##### Fine-tuned Models :computer:
-    The model we trained to develop SIDE is publicly available at the following link: <a href ='https://drive.google.com/drive/folders/1eb4C-wjocn_0NEtjIhHIIwDT-Bvr9Yne?usp=sharing'>MODEL</a> 
+    The model we trained to develop SIDE is publicly available at the following link: <a href ='https://drive.google.com/drive/folders/150xbvYtyuUNsd8hefjiZXqa_eFY8f67K?usp=sharing'>Models</a> 
 
 
 * ##### Statistical Analysis
